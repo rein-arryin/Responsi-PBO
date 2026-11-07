@@ -1,3 +1,6 @@
+**Raditya Ghani**
+**H1D025151**
+
 # Turn Based Boss Fight di Java
 
 Game turn based bertema fantasy yang terinspirasi dari game Elden Ring. Pemain (Tarnish) melawan salah satu boss (Maliketh) secara bergiliran sampai salah satu kalah.
@@ -14,6 +17,7 @@ Proyek ini dibuat untuk memenuhi Responsi Pemrograman Berorientasi Objek (PBO) d
 4. [Cara Menjalankan](#cara-menjalankan)
 5. [Cara Bermain](#cara-bermain)
 6. [Troubleshooting](#troubleshooting)
+7. [Output Gambar](#output)
 
 ---
 
@@ -148,3 +152,16 @@ Jika input tidak valid atau stamina kurang, pemain diminta memilih ulang tanpa k
 | `package TurnBasedGame.characters does not exist` | Ada file yang tidak ikut dicompile | Pakai ketiga pola `*.java` pada perintah compile |
 | Layar tidak terhapus / muncul karakter aneh | Terminal tidak mendukung kode ANSI | Pakai PowerShell, Windows Terminal, atau aktifkan terminal emulasi di IntelliJ |
 | Program berhenti saat input huruf | Input tidak valid | Masukkan angka `1`, `2`, atau `3` sesuai menu |
+
+---
+
+## Output Luaran Program
+
+### Pengujian 10 Persyaratan
+![Pengujian](screenshots/Pengujian.png)
+
+### Tampilan Game
+![Awal Pertarungan](screenshots/Awal_Pertarungan)
+![Pertengahan Pertarungan](screenshots/Tengah_Pertarungan)
+![Akhir Pertarungan Menang](screenshots/Akhir_Pertarungan_Menang)
+![Akhir Pertarungan Kalah](screenshots/Akhir_Pertarungan_Kalah)
