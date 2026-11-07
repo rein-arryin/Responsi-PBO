@@ -17,7 +17,7 @@ Proyek ini dibuat untuk memenuhi Responsi Pemrograman Berorientasi Objek (PBO) d
 4. [Cara Menjalankan](#cara-menjalankan)
 5. [Cara Bermain](#cara-bermain)
 6. [Troubleshooting](#troubleshooting)
-7. [Output Gambar](#output)
+7. [Output Gambar](#output-luaran-program)
 
 ---
 
