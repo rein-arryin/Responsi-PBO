@@ -161,7 +161,7 @@ Jika input tidak valid atau stamina kurang, pemain diminta memilih ulang tanpa k
 ![Pengujian](screenshots/Pengujian.png)
 
 ### Tampilan Game
-![Awal Pertarungan](screenshots/Awal_Pertarungan)
-![Pertengahan Pertarungan](screenshots/Tengah_Pertarungan)
-![Akhir Pertarungan Menang](screenshots/Akhir_Pertarungan_Menang)
-![Akhir Pertarungan Kalah](screenshots/Akhir_Pertarungan_Kalah)
+![Awal Pertarungan](screenshots/Awal_Pertarungan.png)
+![Pertengahan Pertarungan](screenshots/Tengah_Pertarungan.png)
+![Akhir Pertarungan Menang](screenshots/Akhir_Pertarungan_Menang.png)
+![Akhir Pertarungan Kalah](screenshots/Akhir_Pertarungan_Kalah.png)
