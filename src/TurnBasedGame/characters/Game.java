@@ -12,7 +12,7 @@ public class Game {
     public Game(){
         scanner = new Scanner(System.in);
         player = new Player("Tarnish");
-        enemy = new Enemy("Malekith");
+        enemy = new Enemy("Maliketh");
     }
 
     // untik membersihkan layar terminal agar tidak numpuk
@@ -82,8 +82,8 @@ public class Game {
     private void showResults(){
         System.out.println("========== BATTLE RESULTS ==========");
         System.out.println(player.Alive() ? "YOU WIN!" : "YOU LOSE!");
-        System.out.println("\n========== BATTLE CRY STATISTICS ==========");
-        System.out.println(player.getName() + " Battle Cry: " + player.getBattleCount());
-        System.out.println(enemy.getName() + " Battle Cry: " + enemy.getBattleCount());
+        System.out.println("\n========== TOTAL TURN STATISTICS ==========");
+        System.out.println(player.getName() + " TOTAL TURN: " + player.getBattleCount());
+        System.out.println(enemy.getName() + " TOTAL TURN: " + enemy.getBattleCount());
     }
 }

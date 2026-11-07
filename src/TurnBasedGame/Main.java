@@ -26,7 +26,7 @@ public class Main {
 
     // Untuk mengetest 10 kriteria
     private static void runTests() {
-        Enemy boss = new Enemy("Malekith");
+        Enemy boss = new Enemy("Maliketh");
         Enemy minion = new Enemy("Godrick", 80, 10);
         Player player = new Player("Tarnish");
 
