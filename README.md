@@ -42,10 +42,10 @@ Responsi-PBO/
     └── TurnBasedGame/
         ├── Main.java
         ├── characters/
-        │   ├── charGame.java    (abstract superclass)
-        │   ├── Player.java      (subclass)
-        │   ├── Enemy.java       (subclass)
-        │   └── Game.java        (logika pertarungan)
+        │   ├── charGame.java
+        │   ├── Player.java
+        │   ├── Enemy.java
+        │   └── Game.java
         └── interfaces/
             ├── Action.java
             └── Stamina.java
